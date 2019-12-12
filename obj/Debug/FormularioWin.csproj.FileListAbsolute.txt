@@ -1,0 +1,12 @@
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.csprojAssemblyReference.cache
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.Properties.Resources.resources
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.csproj.GenerateResource.cache
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.csproj.CoreCompileInputs.cache
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.Busqueda.resources
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\bin\Debug\Cake.exe.config
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\bin\Debug\Cake.exe
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\bin\Debug\Cake.pdb
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\Cake.exe
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\Cake.pdb
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.Menu.resources
+C:\Users\David Caraballo\source\repos\FormularioWin\FormularioWin\obj\Debug\FormularioWin.Inicio.resources
